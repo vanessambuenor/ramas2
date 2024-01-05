@@ -1,0 +1,1 @@
+"Detectados varios errores en los archivos Css de la carpeta común"
